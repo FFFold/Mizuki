@@ -4,7 +4,7 @@
 
 本博客网站基于[Mizuki](https://github.com/matsuzaka-yuki/mizuki)构建
 
-::github{repo="FFFold/fffold.github.io"}
+::github{repo="FFFold/Mizuki"}
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
